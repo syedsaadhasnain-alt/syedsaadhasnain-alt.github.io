@@ -7,6 +7,9 @@ vungle.com, 6982d73d0ede785bd2878e77, DIRECT, c107d686becd2d77
 # Unity Ads (Direct)
 unity.com, 7375417, DIRECT, 96cabb5fbdde37a7
 
+# ironSource (Direct)
+ironsource.com, 24606587, DIRECT
+
 # Authorized Resellers (Via Unity)
 adagio.io, 1522, RESELLER
 adagio.io, 1575, RESELLER
