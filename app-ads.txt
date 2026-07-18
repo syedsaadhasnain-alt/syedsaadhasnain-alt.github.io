@@ -1,6 +1,9 @@
 # AdMob (Direct)
 google.com, pub-8089811838701736, DIRECT, f08c47fec0942fa0
 
+# InMobi (Direct)
+inmobi.com, 2be76f69c49a497380ad8958e824d21c, DIRECT, 83e75a7ae333ca9d
+
 # Liftoff / Vungle (Direct)
 vungle.com, 6982d73d0ede785bd2878e77, DIRECT, c107d686becd2d77
 
