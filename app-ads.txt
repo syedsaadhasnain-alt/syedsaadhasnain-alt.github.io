@@ -4,6 +4,7 @@ inmobi.com, 2be76f69c49a497380ad8958e824d21c, DIRECT, 83e75a7ae333ca9d
 ironsource.com, 646849, DIRECT
 unity.com, 7375417, DIRECT, 96cabb5fbdde37a7
 vungle.com, 6982d73d0ede785bd2878e77, DIRECT, c107d686becd2d77
+facebook.com, 1774419270455095, DIRECT, c3e20eee3f780d68
 
 # ==== RESELLER (alphabetical) ====
 33across.com, 001Pg0000197KcKIAU, RESELLER, bbea06d9c4d2853c
